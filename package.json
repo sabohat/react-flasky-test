@@ -6,7 +6,7 @@
   "devDependencies": {
     "cypress": "^7.1.0",
     "react-scripts": "0.9.5",
-    "prop-types": "15.6.0",
+    "prop-types": "15.6.0"
 
   },
   "dependencies": {
